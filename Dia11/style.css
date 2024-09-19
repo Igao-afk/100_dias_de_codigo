@@ -1,0 +1,10 @@
+#movable {
+    width: 100px;
+    height: 100px;
+    background-color: #d12121;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    cursor: grab;
+    border-radius: 8px;
+}
